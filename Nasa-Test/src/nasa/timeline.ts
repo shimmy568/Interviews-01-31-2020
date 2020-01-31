@@ -1,4 +1,4 @@
-import { DailyImage, IDailyImage } from "./daily-image";
+import { DailyImage, IDailyImage } from './daily-image';
 
 export type TimelineResponse = {
   timeline: IDailyImage[];
